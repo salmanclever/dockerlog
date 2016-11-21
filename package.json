@@ -1,0 +1,23 @@
+{
+  "name": "dockerlog",
+  "version": "1.0.0",
+  "description": "track docker container and make log",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salmanclever/dockerlog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salmanclever/dockerlog/issues"
+  },
+  "homepage": "https://github.com/salmanclever/dockerlog#readme",
+  "devDependencies": {
+    "jslint": "^0.10.3",
+    "node-docker-monitor": "^1.0.10"
+  }
+}
