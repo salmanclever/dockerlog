@@ -29,7 +29,6 @@ function getLog () {
 
     command.on('close', (code) => {
         console.log(`child process exited with code ${code}`);
-        console.log(timestamp);
         setTimeout(getLog, 2000);
     });
 }
