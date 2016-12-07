@@ -21,5 +21,8 @@
     "docker-loghose": "^1.3.0",
     "jslint": "^0.10.3",
     "node-docker-monitor": "^1.0.10"
+  },
+  "dependencies": {
+    "regex": "^0.1.1"
   }
 }
